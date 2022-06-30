@@ -1,5 +1,7 @@
 ###  <font color=[TPL_STATUS_COLOR]> [TPL_REPO_SHORT_NAME] build [TPL_STATUS_COLOR] [TPL_BUILD_STATUS] (`takes [TPL_BUILD_CONSUMING]s`) </font>
 
+![]([TPL_STATUS_PIC])
+
 Message: [TPL_COMMIT_MSG]
 
 Detail: [[TPL_COMMIT_SHA]]([TPL_COMMIT_LINK])
