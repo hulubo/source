@@ -1,6 +1,6 @@
 ###  <font color=[TPL_STATUS_COLOR]> [TPL_REPO_SHORT_NAME] build [TPL_STATUS_COLOR] [TPL_BUILD_STATUS] (`takes [TPL_BUILD_CONSUMING]s`) </font>
 
-![]([TPL_STATUS_PIC]){:height="50px" width="50px"}
+![]([TPL_STATUS_PIC] 50x50)
 
 Message: [TPL_COMMIT_MSG]
 
